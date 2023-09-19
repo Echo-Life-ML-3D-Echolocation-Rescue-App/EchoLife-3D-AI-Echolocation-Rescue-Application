@@ -10,7 +10,7 @@ Welcome to Echo-Life, an open-source and non-profit project dedicated to revolut
 - Echo-Life - A Multimodal AI Rescue System - Empowering 3D Audio Exploration on Android
 
 Abstract
-Echo-Life and 3D-AudioNet represent two innovative projects that harness the power of artificial intelligence and advanced technology to address critical challenges. Echo-Life focuses on enhancing disaster response through multimodal AI, while 3D-AudioNet empowers users to explore 3D audio environments on Android devices. This white paper provides insights into the technical foundations, methodologies, and steps involved in bringing these projects to life.
+Echo-Life 3D-AudioNet represent an innovative projects that harness the power of artificial intelligence and advanced technology to address critical challenges. Echo-Life focuses on enhancing disaster response through multimodal AI, while  the creation pf 3D-AudioNet empowers users to explore 3D audio environments on Android devices. This project provides insights into the technical foundations, methodologies, and steps involved in bringing these projects to life.
 
 # 1. Introduction
 
