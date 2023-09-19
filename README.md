@@ -14,12 +14,15 @@ Multimodal AI Analysis: Echo-Life utilizes Python, PyTorch, RAM, CPU resources, 
 # Data Processing: The project includes components for spectral data extraction, data preprocessing, and mapping to 3D space. These technical aspects ensure the accuracy and usability of the system.
 
 # Importance:
+
 Echo-Life's significance lies in its potential to save lives during disaster response. By offering rapid, precise, and resource-efficient methods for locating survivors, Echo-Life empowers rescue teams to make informed decisions and expedite their efforts.
 
 # Collaboration and Support:
+
 We welcome collaboration and support from the global community. This open-source project thrives on contributions, feedback, and ideas that can further enhance its capabilities and accessibility.
 
 # Get Involved:
+
 Join us in the mission to make disaster response more effective and efficient. Contribute to the codebase, provide feedback, or explore the documentation to understand how Echo-Life works.
 
 Together, we can harness the power of technology to save lives when every second counts.
