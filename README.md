@@ -7,11 +7,17 @@ Welcome to Echo-Life, an open-source and non-profit project dedicated to revolut
 
 # Key Features:
 
-Multimodal AI Analysis: Echo-Life utilizes Python, PyTorch, RAM, CPU resources, and the Mojo Acceleration framework for advanced audio machine learning. It processes audio data in real time, analyzing sound frequencies, including ultrasonic ranges, to detect survivors' locations.
+Multimodal AI Analysis: 
 
-# 3D Visualization: Spectral audio data is transformed into interactive 3D models, providing a dynamic and intuitive representation of audio intensity over time and frequency. Users can explore and interact with the audio data for enhanced understanding.
+Echo-Life utilizes Python, PyTorch, RAM, CPU resources, and the Mojo Acceleration framework for advanced audio machine learning. It processes audio data in real time, analyzing sound frequencies, including ultrasonic ranges, to detect survivors' locations.
 
-# Data Processing: The project includes components for spectral data extraction, data preprocessing, and mapping to 3D space. These technical aspects ensure the accuracy and usability of the system.
+# 3D Visualization:
+
+Spectral audio data is transformed into interactive 3D models, providing a dynamic and intuitive representation of audio intensity over time and frequency. Users can explore and interact with the audio data for enhanced understanding.
+
+# Data Processing:
+
+The project includes components for spectral data extraction, data preprocessing, and mapping to 3D space. These technical aspects ensure the accuracy and usability of the system.
 
 # Importance:
 
