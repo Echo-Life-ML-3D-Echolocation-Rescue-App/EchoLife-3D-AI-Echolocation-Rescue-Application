@@ -246,7 +246,6 @@ For detailed setup instructions and troubleshooting, refer to the project's READ
 
 # Usage:
 
-Usage
 =====
 
 Getting Started
