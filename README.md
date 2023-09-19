@@ -11,11 +11,11 @@ Welcome to Echo-Life, an open-source and non-profit project dedicated to revolut
 Abstract
 Echo-Life and 3D-AudioNet represent two innovative projects that harness the power of artificial intelligence and advanced technology to address critical challenges. Echo-Life focuses on enhancing disaster response through multimodal AI, while 3D-AudioNet empowers users to explore 3D audio environments on Android devices. This white paper provides insights into the technical foundations, methodologies, and steps involved in bringing these projects to life.
 
-1. Introduction
+# 1. Introduction
 
 Natural disasters and immersive audio experiences represent two distinct domains of application for advanced technology. Echo-Life and 3D-AudioNet are ambitious projects that aim to leverage technology to make a difference in these areas. Echo-Life focuses on disaster response, while 3D-AudioNet enhances 3D audio exploration on Android devices.
 
-2. Technical Foundations
+# 2. Technical Foundations
 
 2.1 Echo-Life: Multimodal AI Rescue System
 
@@ -33,13 +33,13 @@ Mojo Acceleration framework amplifies computational power, enabling Echo-Life to
 PyTorch Neural Networks
 3D-AudioNet integrates PyTorch neural networks to empower users to explore 3D audio environments on Android devices. These neural networks enable real-time analysis and classification of audio data.
 
-3. Enhancing 3D Audio Models with PyTorch Neural Networks
+# 3. Enhancing 3D Audio Models with PyTorch Neural Networks
 
 Beyond Spectrograms: Creating 3D Models
 
 In the context of 3D-AudioNet, PyTorch neural networks are used to enhance 3D audio models. This innovation provides users with a richer and more interactive audio exploration experience. It goes beyond traditional audio analysis methods to visualize audio environments in three dimensions.
 
-4. Transforming 3D-AudioNet from Concept to Reality
+# 4. Transforming 3D-AudioNet from Concept to Reality
 
 Project Planning and Conceptualization
 
