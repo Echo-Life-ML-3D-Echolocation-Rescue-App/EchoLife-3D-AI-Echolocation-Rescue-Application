@@ -7,7 +7,8 @@ Echo-Life - A Multimodal AI Rescue System
 # Overview:
 Welcome to Echo-Life, an open-source and non-profit project dedicated to revolutionizing disaster response efforts. Echo-Life harnesses the power of cutting-edge technology to address one of the most critical challenges in disaster scenarios: locating and rescuing survivors trapped under debris caused by earthquakes, floods, and other natural disasters.
 
-- Echo-Life - A Multimodal AI Rescue System and 3D-AudioNet - Empowering 3D Audio Exploration on Android
+- Echo-Life - A Multimodal AI Rescue System - Empowering 3D Audio Exploration on Android
+
 Abstract
 Echo-Life and 3D-AudioNet represent two innovative projects that harness the power of artificial intelligence and advanced technology to address critical challenges. Echo-Life focuses on enhancing disaster response through multimodal AI, while 3D-AudioNet empowers users to explore 3D audio environments on Android devices. This white paper provides insights into the technical foundations, methodologies, and steps involved in bringing these projects to life.
 
