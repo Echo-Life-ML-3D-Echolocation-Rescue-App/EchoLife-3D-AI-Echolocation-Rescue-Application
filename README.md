@@ -2,13 +2,14 @@
 # Echo-Life-ML-3D-Echolocation-Rescue-App
 Echo-Life - A Multimodal AI Rescue System - Empowering 3D Audio Exploration on Android
 
-You can support this project by buying us a coffee here: https://ko-fi.com/aestheticmayhem
 
 # Overview:
 Welcome to Echo-Life, an open-source and non-profit project dedicated to revolutionizing disaster response efforts. Echo-Life harnesses the power of cutting-edge technology to address one of the most critical challenges in disaster scenarios: locating and rescuing survivors trapped under debris caused by earthquakes, floods, and other natural disasters.
 
 Abstract
 Echo-Life 3D-AudioNet represent an innovative projects that harness the power of artificial intelligence and advanced technology to address critical challenges. Echo-Life focuses on enhancing disaster response through multimodal AI, while  the creation pf 3D-AudioNet empowers users to explore 3D audio environments on Android devices. This project provides insights into the technical foundations, methodologies, and steps involved in bringing these projects to life.
+
+Don't hesitate to reach out if you're a developer interested in joining our project. We can add you as a collaborator. Additionally, if you represent an institution that can assist with data collection and model training, please get in touch. You can also support us by contributing to the ongoing costs of GPT-4 API coding through crowdfunding or simply buying us a coffee. https://ko-fi.com/aestheticmayhem
 
 ![2e2c570cca8e403cab5cc3698d34be38 (1)](https://github.com/Echo-Life-ML-3D-Echolocation-Rescue-App/Echo-Life-ML-3D-Echolocation-Rescue-App/assets/111237581/8e132701-f7a2-4c46-b994-ba7c46c24713)
 
@@ -30,6 +31,7 @@ Disasters like earthquakes and floods can have devastating consequences, causing
 Echo-Life is an open-source and non-profit initiative dedicated to leveraging advanced technology for humanitarian purposes.
 It utilizes state-of-the-art AI technology powered by Python, PyTorch, RAM, CPU, and Mojo Acceleration to create a multimodal AI rescue system.
 Echo-Life's primary mission is to rapidly and accurately detect survivors under debris during disaster response operations.
+
 🔍 How It Detects Survivors Under Debris:
 
 Echo-Life employs a sophisticated AI audio-3D multimodal model.
@@ -37,6 +39,7 @@ This model analyzes audio data, including sounds and frequencies that may indica
 By processing audio information collected from disaster sites, Echo-Life identifies acoustic signatures that are distinct from background noise.
 These signatures are then cross-referenced with spatial data to pinpoint the potential location of survivors trapped beneath debris.
 Echo-Life's AI-driven approach enhances the efficiency and effectiveness of rescue teams, ultimately saving lives.
+
 🔊 3D-AudioNet: Empowering 3D Audio Exploration on Android 🔊
 
 Now, let's shift our focus to the world of immersive audio exploration with 3D-AudioNet:
@@ -72,7 +75,6 @@ Your support can help amplify the impact of these projects:
 
 🙏 Thank you for your support and enthusiasm! 🙏
 
-Help by supporting us with a coffee https://ko-fi.com/aestheticmayhem
 
 With Echo-Life and 3D-AudioNet, we are shaping the future of technology in a way that benefits us all. Join us on this remarkable journey!
 
