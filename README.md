@@ -2,6 +2,8 @@
 # Echo-Life-ML-3D-Echolocation-Rescue-App
 Echo-Life - A Multimodal AI Rescue System - Empowering 3D Audio Exploration on Android
 
+- Subscribe and stay tuned for release date, deadline is set for 1 November 2023
+
 
 # Overview:
 Welcome to Echo-Life, an open-source and non-profit project dedicated to revolutionizing disaster response efforts. Echo-Life harnesses the power of cutting-edge technology to address one of the most critical challenges in disaster scenarios: locating and rescuing survivors trapped under debris caused by earthquakes, floods, and other natural disasters.
