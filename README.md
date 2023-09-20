@@ -1,5 +1,5 @@
 ![echo-life_logo](https://github.com/Echo-Life-ML-3D-Echolocation-Rescue-App/Echo-Life-ML-3D-Echolocation-Rescue-App/assets/111237581/88a1e6d2-1340-4d34-aee1-6ec12be631bb)
-# Echo-Life-ML-3D-Echolocation-Rescue-App
+# Echo-Life-ML-3D-UltraSonic-Echolocation-Rescue-Application
 Echo-Life - A Multimodal AI Rescue System - Empowering 3D Audio Exploration on Android
 
 - Subscribe and stay tuned for release date, deadline is set for 1 November 2023
