@@ -1,16 +1,20 @@
 # Echo-Life-ML-3D-Echolocation-Rescue-App
 Echo-Life - A Multimodal AI Rescue System
 
-![echo-life_logo](https://github.com/Echo-Life-ML-3D-Echolocation-Rescue-App/Echo-Life-ML-3D-Echolocation-Rescue-App/assets/111237581/88a1e6d2-1340-4d34-aee1-6ec12be631bb)
-
-
 # Overview:
 Welcome to Echo-Life, an open-source and non-profit project dedicated to revolutionizing disaster response efforts. Echo-Life harnesses the power of cutting-edge technology to address one of the most critical challenges in disaster scenarios: locating and rescuing survivors trapped under debris caused by earthquakes, floods, and other natural disasters.
+
+
+![echo-life_logo](https://github.com/Echo-Life-ML-3D-Echolocation-Rescue-App/Echo-Life-ML-3D-Echolocation-Rescue-App/assets/111237581/88a1e6d2-1340-4d34-aee1-6ec12be631bb)
+
 
 - Echo-Life - A Multimodal AI Rescue System - Empowering 3D Audio Exploration on Android
 
 Abstract
 Echo-Life 3D-AudioNet represent an innovative projects that harness the power of artificial intelligence and advanced technology to address critical challenges. Echo-Life focuses on enhancing disaster response through multimodal AI, while  the creation pf 3D-AudioNet empowers users to explore 3D audio environments on Android devices. This project provides insights into the technical foundations, methodologies, and steps involved in bringing these projects to life.
+
+![2e2c570cca8e403cab5cc3698d34be38 (1)](https://github.com/Echo-Life-ML-3D-Echolocation-Rescue-App/Echo-Life-ML-3D-Echolocation-Rescue-App/assets/111237581/8e132701-f7a2-4c46-b994-ba7c46c24713)
+
 
 # 1. Introduction
 
@@ -196,19 +200,6 @@ Explore the repository, get involved, and be part of the Echo-Life community tod
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-# Repository Title and Description:
-
-Repository Title: Echo-Life & 3D-AudioNet
-Description: A multimodal AI rescue system and 3D audio exploration on Android.
-
-# Table of Contents:
-
-Include a table of contents at the beginning for easy navigation.
-
-# Introduction:
-
-Explain the project's dual focus on disaster response and 3D audio exploration.
-Highlight the significance of both Echo-Life and 3D-AudioNet.
 
 # Getting Started:
 
@@ -246,7 +237,6 @@ For detailed setup instructions and troubleshooting, refer to the project's READ
 
 # Usage:
 
-=====
 
 Getting Started
 ---------------
@@ -289,7 +279,7 @@ Contributors
 
 The Echo-Life project is made possible through the contributions and collaboration of dedicated individuals and organizations. We extend our gratitude to the following contributors for their valuable input and support:
 
-- Karim Marbouh (@aestheticmayhem): Lead developer and project coordinator.  Python and Machine learning specialist. Android app development. For providing insights and guidance.
+- Karim Marbouh ( @aestheticmayhem ): Lead developer and project coordinator.  Python and Machine learning specialist. Android app development. For providing insights and guidance.
 
 - OpenAI Community: 
 
