@@ -1,4 +1,3 @@
-https://ko-fi.com/aestheticmayhem
 ![echo-life_logo](https://github.com/Echo-Life-ML-3D-Echolocation-Rescue-App/Echo-Life-ML-3D-Echolocation-Rescue-App/assets/111237581/88a1e6d2-1340-4d34-aee1-6ec12be631bb)
 # Echo-Life-ML-3D-Echolocation-Rescue-App
 Echo-Life - A Multimodal AI Rescue System - Empowering 3D Audio Exploration on Android
@@ -71,7 +70,7 @@ Your support can help amplify the impact of these projects:
 
 🙏 Thank you for your support and enthusiasm! 🙏
 
-https://ko-fi.com/aestheticmayhem
+Help by supporting us with a coffee https://ko-fi.com/aestheticmayhem
 
 With Echo-Life and 3D-AudioNet, we are shaping the future of technology in a way that benefits us all. Join us on this remarkable journey!
 
@@ -188,7 +187,7 @@ Echo-Life's significance lies in its potential to save lives during disaster res
 
 We welcome collaboration and support from the global community. This open-source project thrives on contributions, feedback, and ideas that can further enhance its capabilities and accessibility.
 
-https://ko-fi.com/aestheticmayhem
+Support us with a coffee https://ko-fi.com/aestheticmayhem
 
 # Get Involved:
 
@@ -196,7 +195,6 @@ Join us in the mission to make disaster response more effective and efficient. C
 
 Together, we can harness the power of technology to save lives when every second counts.
 
-https://ko-fi.com/aestheticmayhem
 
 Explore the repository, get involved, and be part of the Echo-Life community today.
 
