@@ -79,7 +79,6 @@ Your support can help amplify the impact of these projects:
 With Echo-Life and 3D-AudioNet, we are shaping the future of technology in a way that benefits us all. Join us on this remarkable journey!
 
 
-
 # 2. Technical Foundations
 
 Python: Python is a versatile programming language and is commonly used in AI and machine learning projects. You'll use it for developing the AI models and various scripts.
