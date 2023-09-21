@@ -11,7 +11,7 @@ Welcome to EchoLife, an open-source and non-profit project dedicated to revoluti
 - Abstract:
 Echo-Life 3D-AudioNet represent an innovative project that harness the power of artificial intelligence and advanced technology to address critical challenges. Echo-Life focuses on enhancing disaster response through multimodal AI, while  the creation of 3D-AudioNet empowers users to explore 3D audio environments on Android devices. This project provides insights into the technical foundations, methodologies, and steps involved in bringing these projects to life.
 
-- Don't hesitate to reach out if you're a developer interested in joining our project. We can add you as a collaborator. Additionally, if you represent an institution that can assist with data collection and model training, please get in touch. You can also support us by contributing to the ongoing costs of GPT-4 API coding through crowdfunding or simply buying us a coffee. https://gogetfunding.com/echo-life-ml-3d-echolocation-rescue-app/ https://ko-fi.com/aestheticmayhem
+- Don't hesitate to reach out if you're a developer interested in joining our project. We can add you as a collaborator. Additionally, if you represent an institution that can assist with data collection and model training, please get in touch. You can also support us by contributing to the ongoing costs of GPT-4 API coding through crowdfunding or simply buying us a coffee. For the cause https://gogetfunding.com/echo-life-ml-3d-echolocation-rescue-app/  or coffee https://ko-fi.com/aestheticmayhem
 
 ![2e2c570cca8e403cab5cc3698d34be38 (1)](https://github.com/Echo-Life-ML-3D-Echolocation-Rescue-App/Echo-Life-ML-3D-Echolocation-Rescue-App/assets/111237581/8e132701-f7a2-4c46-b994-ba7c46c24713)
 
