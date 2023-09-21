@@ -305,6 +305,8 @@ The Echo-Life project is made possible through the contributions and collaborati
 
 https://ko-fi.com/aestheticmayhem
 
+Crowdfunding https://gogetfunding.com/echo-life-ml-3d-echolocation-rescue-app/
+
 - OpenAI Community: 
 
 If you would like to contribute to this project or report issues, please contact karimmarbouh@gmail.com .
